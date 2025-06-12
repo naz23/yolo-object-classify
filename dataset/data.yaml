@@ -1,0 +1,5 @@
+train: "D:/Coding/yolo/dataset/images/train"
+val: "D:/Coding/yolo/dataset/images/train"
+
+nc: 3
+names: ["brown", "green", "yellow"]
